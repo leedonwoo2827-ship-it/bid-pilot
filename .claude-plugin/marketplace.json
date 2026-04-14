@@ -1,0 +1,21 @@
+{
+  "name": "bid-pilot",
+  "owner": {
+    "name": "leedonwoo2827-ship-it",
+    "url": "https://github.com/leedonwoo2827-ship-it"
+  },
+  "metadata": {
+    "description": "수주 정보 분석 마켓플레이스: RFP 분석, 경쟁사 매핑, 컨소시엄 전략, 입찰 자가평가, 조달공고 모니터링, 시장 환경 분석. 공공조달, ODA, 민간 입찰 전반 대응. 1개 플러그인, 8개 스킬, 6개 커맨드.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "bid-intelligence",
+      "source": ".",
+      "version": "1.0.0",
+      "description": "수주 정보 분석 플러그인: RFP 분석, 경쟁사 매핑, 컨소시엄 전략, 입찰 자가평가, 조달공고 모니터링, 시장 환경 분석.",
+      "category": "bid-management",
+      "tags": ["bid", "rfp", "procurement", "proposal", "competition", "consortium", "intelligence"]
+    }
+  ]
+}

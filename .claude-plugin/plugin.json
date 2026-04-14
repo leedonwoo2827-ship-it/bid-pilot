@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "description": "수주 정보 분석 플러그인: RFP 분석, 경쟁사 매핑, 컨소시엄 전략, 입찰 자가평가, 조달공고 모니터링, 시장 환경 분석. 공공조달, ODA, 민간 입찰 전반 대응.",
   "author": {
-    "name": "scottnaddle"
+    "name": "leedonwoo2827-ship-it"
   },
-  "repository": "https://github.com/scottnaddle/bid-pilot",
+  "repository": "https://github.com/leedonwoo2827-ship-it/bid-pilot",
   "license": "MIT",
   "keywords": [
     "bid",
